@@ -1,0 +1,13 @@
+tensorflow
+scikit-learn
+matplotlib
+pillow
+numpy
+fastapi
+uvicorn
+python-multipart
+opencv-python
+scikit-image
+pandas
+scipy
+requests

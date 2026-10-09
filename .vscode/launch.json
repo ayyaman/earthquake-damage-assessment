@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\90536\\Documents\\Codex\\2026-05-14\\ben-bilgisayar-m-hendisli-i-4\\earthquake_project\\frontend\\index.html"
+        }
+    ]
+}

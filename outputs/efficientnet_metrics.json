@@ -1,0 +1,7 @@
+{
+  "model_name": "EfficientNetB0 Transfer Learning",
+  "macro_f1": 0.925,
+  "weighted_f1": 0.9234,
+  "accuracy": 0.9046,
+  "loss": 0.2529
+}

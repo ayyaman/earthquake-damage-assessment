@@ -1,0 +1,56 @@
+[
+  {
+    "earthquake_id": "demo-001",
+    "date": "2026-06-13T08:18:00+03:00",
+    "latitude": 38.4237,
+    "longitude": 39.1428,
+    "depth": 7.2,
+    "magnitude": 4.6,
+    "location": "Elazig - Sivrice"
+  },
+  {
+    "earthquake_id": "demo-002",
+    "date": "2026-06-13T05:44:00+03:00",
+    "latitude": 37.5753,
+    "longitude": 36.9228,
+    "depth": 10.4,
+    "magnitude": 3.8,
+    "location": "Kahramanmaras - Pazarcik"
+  },
+  {
+    "earthquake_id": "demo-003",
+    "date": "2026-06-12T23:22:00+03:00",
+    "latitude": 40.7349,
+    "longitude": 29.9562,
+    "depth": 12.1,
+    "magnitude": 2.7,
+    "location": "Kocaeli - Golcuk"
+  },
+  {
+    "earthquake_id": "demo-004",
+    "date": "2026-06-12T18:10:00+03:00",
+    "latitude": 39.9208,
+    "longitude": 32.8541,
+    "depth": 8.7,
+    "magnitude": 3.2,
+    "location": "Ankara - Bala"
+  },
+  {
+    "earthquake_id": "demo-005",
+    "date": "2026-06-12T15:36:00+03:00",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "depth": 6.9,
+    "magnitude": 5.1,
+    "location": "Izmir - Seferihisar"
+  },
+  {
+    "earthquake_id": "demo-006",
+    "date": "2026-06-12T11:03:00+03:00",
+    "latitude": 39.6484,
+    "longitude": 27.8826,
+    "depth": 9.8,
+    "magnitude": 4.1,
+    "location": "Balikesir - Bigadic"
+  }
+]
